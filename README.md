@@ -1,16 +1,24 @@
-# new_and_improved_todo
+![image](https://github.com/ujaiahmad/task-manager/assets/25504609/b1e92347-fab0-4294-bb5b-efab18e90f3f)# new_and_improved_todo
 
-A new Flutter project.
+An improvement from the previous project todo_app.
+Features include: 
+1. Add tasks
+2. Each task is organized by each day
+3. Calendar functionality
+4. Homepage that functions like a dashboard to oversee all task's status count
+5. Change status of each task
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## App Screenshot 
+Page 1: Get Started page
+![image](https://github.com/ujaiahmad/task-manager/assets/25504609/c08b791c-e7f5-4f04-b504-f202541fdb56)
+Page 2: Homepage
+(![image](https://github.com/ujaiahmad/task-manager/assets/25504609/bdad8c65-43c5-4540-809f-f03558a8a0b4)
+Page 3: Calendar page
+![image](https://github.com/ujaiahmad/task-manager/assets/25504609/8836d184-c46c-4e42-b46b-a755ab084f27)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Implementation:
+1. Created Model class Event
+2. Created view model class Eventmodel
+3. Ui/ux that has reusable code embedded inside the custom widgets folder
+4. Constant folder to apply consistent design 
