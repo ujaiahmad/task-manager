@@ -7,8 +7,14 @@ Features include:
 5. Change status of each task
 6. Error validation by using snakbar
 <br />
+Implementation:<br />
+1. Created Model class Event<br />
+2. Created view model class Eventmodel<br />
+3. Ui/ux that has reusable code embedded inside the custom widgets folder<br />
+4. Constant folder to apply consistent design <br />
+5. Design is inspired by https://dribbble.com/shots/15571949-Task-Manager-Mobile-App-Design <br />
 # App Preview <br />
-<img src="https://github.com/ujaiahmad/task-manager/assets/25504609/bcbb0d02-12c0-47b3-b5c6-17a5b3976f1c" width="200" /><br />
+<img src="https://github.com/ujaiahmad/task-manager/assets/25504609/bcbb0d02-12c0-47b3-b5c6-17a5b3976f1c" width="250" /><br />
 # App Screenshot 
 <br />
 Page 1: Get Started page<br />
@@ -19,8 +25,4 @@ Page 3: Calendar page<br />
 <img src="https://github.com/ujaiahmad/task-manager/assets/25504609/8836d184-c46c-4e42-b46b-a755ab084f27" width="200"><br />
 <br />
 
-Implementation:<br />
-1. Created Model class Event<br />
-2. Created view model class Eventmodel<br />
-3. Ui/ux that has reusable code embedded inside the custom widgets folder<br />
-4. Constant folder to apply consistent design <br />
+
