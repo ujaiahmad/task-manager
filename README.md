@@ -17,8 +17,8 @@ Page 3: Calendar page<br />
 <img src="https://github.com/ujaiahmad/task-manager/assets/25504609/8836d184-c46c-4e42-b46b-a755ab084f27" width="200"><br />
 <br />
 <br />
-Implementation:
-1. Created Model class Event
-2. Created view model class Eventmodel
-3. Ui/ux that has reusable code embedded inside the custom widgets folder
-4. Constant folder to apply consistent design 
+Implementation:<br />
+1. Created Model class Event<br />
+2. Created view model class Eventmodel<br />
+3. Ui/ux that has reusable code embedded inside the custom widgets folder<br />
+4. Constant folder to apply consistent design <br />
